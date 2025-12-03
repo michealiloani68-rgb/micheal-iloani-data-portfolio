@@ -40,4 +40,5 @@ The focus is on:
    pip install pandas numpy
 4. Run the script:
    python scripts/telco_cleaning_pipeline.py
-5. Check outputs in the outputs/ folder.
+   yaml
+6. Check outputs in the outputs/ folder.
